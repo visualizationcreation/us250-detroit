@@ -1,4 +1,120 @@
 {
   "schemaVersion": 1,
-  "reaches": []
+  "reaches": [
+    {
+      "sourcePoint": {
+        "id": "us250-detroit-p04",
+        "title": "Work becomes a mural"
+      },
+      "target": {
+        "id": "us250-philadelphia",
+        "url": "https://orbiversity.com/us250-philadelphia/",
+        "topic": "Philadelphia — Founding ideas and the people who widened them"
+      },
+      "relation": "comparison",
+      "reason": "Compare the Centennial Exhibition’s national showcase with Rivera’s industrial mural. These are different ways of presenting work, not a claim of direct influence.",
+      "evidence": [
+        {
+          "url": "https://dia.org/riveracourt",
+          "title": "Rivera Court"
+        },
+        {
+          "url": "https://www.loc.gov/free-to-use/centennial-exposition-1876/",
+          "title": "Centennial Exposition, 1876"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-detroit-p05",
+        "title": "Hitsville and the work of keeping a story"
+      },
+      "target": {
+        "id": "us250-new-orleans",
+        "url": "https://orbiversity.com/us250-new-orleans/",
+        "topic": "New Orleans — A river city that made an American sound"
+      },
+      "relation": "comparison",
+      "reason": "Follow two different ways music traveled: Armstrong’s move from New Orleans to Chicago, and Motown’s recording business in Detroit. This comparison does not claim that one caused the other.",
+      "evidence": [
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        },
+        {
+          "url": "https://virtualexhibits.louisarmstronghouse.org/2022/07/08/ill-never-forget-it-the-100th-anniversary-of-louis-armstrongs-arrival-in-chicago/",
+          "title": "The 100th Anniversary of Louis Armstrong’s Arrival in Chicago"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-detroit-p05",
+        "title": "Hitsville and the work of keeping a story"
+      },
+      "target": {
+        "id": "us250-los-angeles",
+        "url": "https://orbiversity.com/us250-los-angeles/",
+        "topic": "Los Angeles — Many beginnings, Pacific futures"
+      },
+      "relation": "documented connection",
+      "reason": "The Motown Museum records the company’s headquarters move to Los Angeles in 1972. Read the story from both ends of that route.",
+      "evidence": [
+        {
+          "url": "https://www.motownmuseum.org/about/esther-gordy/",
+          "title": "Esther Gordy Edwards"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-detroit-p06",
+        "title": "A neighborhood survives in memory"
+      },
+      "target": {
+        "id": "us250-los-angeles",
+        "url": "https://orbiversity.com/us250-los-angeles/",
+        "topic": "Los Angeles — Many beginnings, Pacific futures"
+      },
+      "relation": "comparison",
+      "reason": "Compare ways of preserving memory: Black Bottom’s neighborhood history and an exhibition about Japanese American incarceration. Urban clearance and wartime incarceration are not equivalent events.",
+      "evidence": [
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/black-bottom-neighborhood",
+          "title": "Black Bottom Neighborhood"
+        },
+        {
+          "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/paradise-valley",
+          "title": "Paradise Valley"
+        },
+        {
+          "url": "https://www.janm.org/exhibits/behere1942",
+          "title": "BeHere / 1942"
+        }
+      ]
+    },
+    {
+      "sourcePoint": {
+        "id": "us250-detroit-p07",
+        "title": "Giving a station another life"
+      },
+      "target": {
+        "id": "us250-philadelphia",
+        "url": "https://orbiversity.com/us250-philadelphia/",
+        "topic": "Philadelphia — Founding ideas and the people who widened them"
+      },
+      "relation": "comparison",
+      "reason": "Compare the conservation of Independence Hall with the reuse of Michigan Central. Both invite questions about what is retained, replaced and made useful again.",
+      "evidence": [
+        {
+          "url": "https://michigancentral.com/a-new-beginning-ford-to-reopen-michigan-central-station-after-multi-year-historic-restoration/",
+          "title": "A New Beginning: Ford to Reopen Michigan Central Station"
+        },
+        {
+          "url": "https://www.nps.gov/inde/learn/historyculture/places-independencehall-architecture.htm",
+          "title": "Independence Hall: Architecture"
+        }
+      ]
+    }
+  ]
 }
