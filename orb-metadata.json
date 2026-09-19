@@ -1,0 +1,186 @@
+{
+  "id": "us250-detroit",
+  "title": "Detroit — Making things, making music, remaking a city",
+  "summary": "Factories, church networks, murals, Motown and remembered neighborhoods: eight readings reveal a city made by people as well as products.",
+  "collection": "America at 250 — Four Cities, Many Stories",
+  "pointCount": 8,
+  "language": "en",
+  "canonical": null,
+  "publicationStatus": "prepared",
+  "idMapping": [
+    {
+      "draftId": "us250-detroit.p01",
+      "id": "us250-detroit-p01"
+    },
+    {
+      "draftId": "us250-detroit.p02",
+      "id": "us250-detroit-p02"
+    },
+    {
+      "draftId": "us250-detroit.p03",
+      "id": "us250-detroit-p03"
+    },
+    {
+      "draftId": "us250-detroit.p04",
+      "id": "us250-detroit-p04"
+    },
+    {
+      "draftId": "us250-detroit.p05",
+      "id": "us250-detroit-p05"
+    },
+    {
+      "draftId": "us250-detroit.p06",
+      "id": "us250-detroit-p06"
+    },
+    {
+      "draftId": "us250-detroit.p07",
+      "id": "us250-detroit-p07"
+    },
+    {
+      "draftId": "us250-detroit.p08",
+      "id": "us250-detroit-p08"
+    }
+  ],
+  "sourceRegister": [
+    {
+      "id": "detroit-river",
+      "title": "Founding of Detroit",
+      "publisher": "Detroit Historical Society",
+      "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/founding-detroit",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "piquette",
+      "title": "Our History",
+      "publisher": "Ford Piquette Avenue Plant Museum",
+      "url": "https://www.fordpiquetteplant.org/about/history/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "bradby",
+      "title": "Bradby, Reverend Robert",
+      "publisher": "Detroit Historical Society",
+      "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/bradby-reverend-robert",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "labor",
+      "title": "The Places of Labor History in Detroit",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/articles/000/the-places-of-labor-history-in-detroit.htm",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "rivera",
+      "title": "Rivera Court",
+      "publisher": "Detroit Institute of Arts",
+      "url": "https://dia.org/riveracourt",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "motown",
+      "title": "Esther Gordy Edwards",
+      "publisher": "Motown Museum",
+      "url": "https://www.motownmuseum.org/about/esther-gordy/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "bottom",
+      "title": "Black Bottom Neighborhood",
+      "publisher": "Detroit Historical Society",
+      "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/black-bottom-neighborhood",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "paradise",
+      "title": "Paradise Valley",
+      "publisher": "Detroit Historical Society",
+      "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/paradise-valley",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "station",
+      "title": "A New Beginning: Ford to Reopen Michigan Central Station",
+      "publisher": "Michigan Central",
+      "url": "https://michigancentral.com/a-new-beginning-ford-to-reopen-michigan-central-station-after-multi-year-historic-restoration/",
+      "accessedAt": "2026-09-19"
+    },
+    {
+      "id": "riverpark",
+      "title": "Ralph C. Wilson, Jr. Centennial Park",
+      "publisher": "Detroit Riverfront Conservancy",
+      "url": "https://www.detroitriverfront.org/plan-your-visit/parks-greenways/ralph-c-wilson-jr-centennial-park",
+      "accessedAt": "2026-09-19"
+    }
+  ],
+  "sourcePointAssignments": [
+    {
+      "id": "us250-detroit-p01",
+      "sourceIds": [
+        "detroit-river"
+      ]
+    },
+    {
+      "id": "us250-detroit-p02",
+      "sourceIds": [
+        "piquette"
+      ]
+    },
+    {
+      "id": "us250-detroit-p03",
+      "sourceIds": [
+        "bradby",
+        "labor"
+      ]
+    },
+    {
+      "id": "us250-detroit-p04",
+      "sourceIds": [
+        "rivera"
+      ]
+    },
+    {
+      "id": "us250-detroit-p05",
+      "sourceIds": [
+        "motown"
+      ]
+    },
+    {
+      "id": "us250-detroit-p06",
+      "sourceIds": [
+        "bottom",
+        "paradise"
+      ]
+    },
+    {
+      "id": "us250-detroit-p07",
+      "sourceIds": [
+        "station"
+      ]
+    },
+    {
+      "id": "us250-detroit-p08",
+      "sourceIds": [
+        "riverpark"
+      ]
+    }
+  ],
+  "authorship": "Original text authored with Codex for the owner; anonymous public credit.",
+  "media": {
+    "included": [
+      {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Ford_Piquette_Avenue_Plant_-_Front_Exterior.jpg/960px-Ford_Piquette_Avenue_Plant_-_Front_Exterior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "source": "https://commons.wikimedia.org/wiki/File:Ford_Piquette_Avenue_Plant_-_Front_Exterior.jpg",
+        "title": "The front exterior of the Ford Piquette Avenue Plant at 461 Piquette Street, Detroit, Michigan. Built in 1904, this building was the second home of the Ford Motor Company (and the oldest still standing), and was where the first Ford Model Ts were produced. Now",
+        "caption": "The Ford Piquette Avenue Plant exterior. This is a view of the surviving building, not a photograph of assembly-line work.",
+        "credit": "Jackdude101",
+        "license": "CC BY-SA 4.0",
+        "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+        "node": "us250-detroit-p02",
+        "generated": false
+      }
+    ],
+    "generated": [],
+    "note": "One credited documentary image. No narration or video was supplied."
+  }
+}
